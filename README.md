@@ -1,5 +1,5 @@
 # Covid19FlaskVisualization
-The project is to make a visualisation of the covid cases on the world map, showing the information about the confirmed cases and deaths of an area. The visualisation goes as size of circle for the number of cases. The size of circle depend on the number of confirmed cases in the area available in dataset.
+The project is to make a visualisation of the covid cases on the world map, showing the information about the confirmed cases and deaths of an area. The visualisation goes as size of circle for the number of cases.
 
 # Installation
 
