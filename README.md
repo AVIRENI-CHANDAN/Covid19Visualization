@@ -12,7 +12,7 @@ source env/bin/activate
 ```
 for linux
 ```bash
-source env/bin/activate
+source env/scripts/activate
 ```
 for windows
 ## Package installation
