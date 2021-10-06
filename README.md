@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 #
 Datasets imported from [Kaggle](https://www.kaggle.com/)
-### Technologies used
+### Modules used
 flask
 
 pandas
