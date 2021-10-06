@@ -1,4 +1,4 @@
-# Covid19FlaskVisualization
+# Covid19Visualization
 The project is to make a visualisation of the covid cases on the world map, showing the information about the confirmed cases and deaths of an area. The visualisation goes as size of circle for the number of cases.
 
 # Installation
